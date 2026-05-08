@@ -97,7 +97,7 @@ st.set_page_config(page_title="PragyanAI Video Creator", layout="wide")
 
 # Display logo if it exists
 if os.path.exists("PragyanAI_Transperent.png"):
-    st.image("flower.jpg")
+    st.image("flower.webp")
 
 st.title("Flowers from yhe garden")
 st.markdown("Upload multiple images, specify timing, and add audio from a file or YouTube.")
